@@ -1,5 +1,5 @@
 Package: dummy.es
-Type: Translation
+Type: Translation-module
 Title: Saluda
 Version: 0.0.0.9000
 Authors@R: 
