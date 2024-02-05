@@ -1,0 +1,14 @@
+Package: dummy.es
+Type: Translation
+Title: Saluda
+Version: 0.0.0.9000
+Authors@R: 
+    person("Elio", "Campitelli", , "elio.campitelli@cima.fcen.uba.ar", role = c("cre", "aut"),
+           comment = c(ORCID = "0000-0002-7742-9230"))
+Description: Saluda a le usuarie.
+License: GPL-3
+Encoding: UTF-8
+Language: es
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Translates: hello (=1.0.0)
