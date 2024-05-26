@@ -3,18 +3,19 @@
 \docType{data}
 \name{common_names}
 \alias{common_names}
-\title{Nombres comunes en EE.UU}
+\title{Common US names}
 \format{
-U data.frame con 10 flas y 2 columnas
+A data frame with 10 rows and 2 columns
 \describe{
-\item{name}{El nombre.}
-\item{n}{El número total de entradas en la base de datos.}
+\item{name}{The name}
+\item{n}{The total number of entries in the database}
 }
 }
 \usage{
 common_names
 }
 \description{
-Los diez nombres más populares en EE.UU. según el paquete babynames.
+The then most common used names in the US according to the
+babynames package.
 }
 \keyword{datasets}

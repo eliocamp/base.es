@@ -1,0 +1,31 @@
+docType:
+  original: data
+  translation: data
+title:
+  original: Common US names
+  translation: Nombre comunes en los EE.UU.
+format:
+  original: |
+    A data frame with 10 rows and 2 columns
+    \describe{
+    }{\item{name}{The name}}{
+    }{\item{n}{The total number of entries in the database}}{
+    }
+  translation: |
+    Un data frame con 10 filas y 2 columnas
+    \describe{
+    }{\item{name}{El nombre}}{
+    }{\item{n}{El número de entradas en la base de datos}}{
+    }
+description:
+  original: |
+    The then most common used names in the US according to the
+    babynames package.
+  translation: |
+    Los 10 nombres más usados en los EE.UU. de acuerdo al paquete babynames
+untranslatable:
+- alias
+- name
+- keyword
+- concept
+- usage

@@ -1,0 +1,55 @@
+title:
+  original: Says hello
+  translation: Saluda
+arguments:
+  name:
+    original: |-
+      string with the name of the person to greet. It can be as long as
+      you want.. like this description! You can check a list of common names for
+      inspiration in \link{common_names}.
+    translation: |-
+      texto con el nombre de la persona a saludar. Puede ser tan largo como
+      quieras... como eseta descripción! Podés buscar una lista de nombres comunes
+      para inspirarte en \link{common_names}.
+  emotion:
+    original: |-
+      character with the emotion. This is a link to \code{\link[base:mean]{base::mean()}}
+      for some reason.
+    translation: |-
+        texto con la emoción. Este es un vínculo a \code{\link[base:mean]{base::mean()}
+        por alguna razón
+value:
+  original: |
+    The input name, invisibly
+  translation: |
+    El nombre, invisible
+description:
+  original: |
+    Greets you personally and with emotion. It's documentation also has a rather
+    long description to test how the Rd file handles multiple lines.
+  translation: |
+    Te saluda personalmente y con una emición. La documentación también tiene una
+    descripción bastante larga para ver como el archivo Rd se maneja con múlitples líneas.
+details:
+  original: |
+    This will print to the console. The available emotions might depend on the
+    supported emotions in your machine.
+
+    And this is a new paragraph to test how this works.
+  translation: |
+    Esto va a imprimir en la consola. Las emociones disponibles pueden depender de
+    las emociones disponibles es tu máquina.
+
+    Y este es un segundo párrafo para ver cómo funciona.
+examples:
+  original: |+
+    hello_world("CRAN", emotion = "disbelief")
+
+  translation: |+
+    hello_world("CRAN", emotion = "disbelief")
+untranslatable:
+- alias
+- name
+- keyword
+- concept
+- usage
