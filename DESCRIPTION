@@ -1,11 +1,11 @@
-Package: dummy.es
+Package: base.es
 Type: Translation-module
 Title: Saluda
 Version: 0.0.0.9000
 Authors@R: 
     person("Elio", "Campitelli", , "elio.campitelli@cima.fcen.uba.ar", role = c("cre", "aut"),
            comment = c(ORCID = "0000-0002-7742-9230"))
-Description: Saluda a le usuarie.
+Description: Traducción al español de páginas de ayuda de R base. 
 License: GPL-3
 Encoding: UTF-8
 Language: es
