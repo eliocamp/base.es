@@ -4,7 +4,7 @@ title:
 arguments:
   x:
     original: |-
-      An \R{} object.  Currently there are methods for
+      an \R{} object.  Currently there are methods for
           numeric/logical vectors and \link[=Dates]{date},
           \link{date-time} and \link{time interval} objects.  Complex vectors
           are allowed for \code{trim = 0}, only.
