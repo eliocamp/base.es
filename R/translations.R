@@ -1,2 +1,2 @@
 #' @export
-translations <- rhelpi18n::read_translations()
+translations <- rdlocal::read_translations()
